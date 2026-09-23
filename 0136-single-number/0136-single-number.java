@@ -2,19 +2,13 @@ import java.util.*;
 
 class Solution {
     public int singleNumber(int[] nums) {
-        // Hashmap approach
-        HashMap<Integer, Integer> map = new HashMap<>();
+        // xor operator - xor with same number gives 0 -> 1^1 = 0, so the left number will be the single frequency number after doing xor on all numbers
 
-        // storing freq of each number
+        int xr = 0;
+
         for(int num : nums){
-            map.put(num, map.getOrDefault(num, 0)+1);
+            xr = xr^num;
         }
-        // find the number that appear only once
-        for(int key : map.keySet()){
-            if(map.get(key) == 1){
-                return key;
-            }
-        }
-        return -1;
+        return xr;
     }
 }
