@@ -7,6 +7,7 @@ Daily DSA Practice
 |  |
 | ------- |
 | [0049-group-anagrams](https://github.com/devikasharma1234/DSA-Practice/tree/master/0049-group-anagrams) |
+| [0121-best-time-to-buy-and-sell-stock](https://github.com/devikasharma1234/DSA-Practice/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0136-single-number](https://github.com/devikasharma1234/DSA-Practice/tree/master/0136-single-number) |
 | [2404-most-frequent-even-element](https://github.com/devikasharma1234/DSA-Practice/tree/master/2404-most-frequent-even-element) |
 | [3105-longest-strictly-increasing-or-strictly-decreasing-subarray](https://github.com/devikasharma1234/DSA-Practice/tree/master/3105-longest-strictly-increasing-or-strictly-decreasing-subarray) |
@@ -38,4 +39,8 @@ Daily DSA Practice
 |  |
 | ------- |
 | [0136-single-number](https://github.com/devikasharma1234/DSA-Practice/tree/master/0136-single-number) |
+## Dynamic Programming
+|  |
+| ------- |
+| [0121-best-time-to-buy-and-sell-stock](https://github.com/devikasharma1234/DSA-Practice/tree/master/0121-best-time-to-buy-and-sell-stock) |
 <!---LeetCode Topics End-->
