@@ -6,6 +6,7 @@ Daily DSA Practice
 ## Array
 |  |
 | ------- |
+| [0011-container-with-most-water](https://github.com/devikasharma1234/DSA-Practice/tree/master/0011-container-with-most-water) |
 | [0049-group-anagrams](https://github.com/devikasharma1234/DSA-Practice/tree/master/0049-group-anagrams) |
 | [0053-maximum-subarray](https://github.com/devikasharma1234/DSA-Practice/tree/master/0053-maximum-subarray) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/devikasharma1234/DSA-Practice/tree/master/0121-best-time-to-buy-and-sell-stock) |
@@ -53,10 +54,15 @@ Daily DSA Practice
 ## Greedy
 |  |
 | ------- |
+| [0011-container-with-most-water](https://github.com/devikasharma1234/DSA-Practice/tree/master/0011-container-with-most-water) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/devikasharma1234/DSA-Practice/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [2078-two-furthest-houses-with-different-colors](https://github.com/devikasharma1234/DSA-Practice/tree/master/2078-two-furthest-houses-with-different-colors) |
 ## Divide and Conquer
 |  |
 | ------- |
 | [0053-maximum-subarray](https://github.com/devikasharma1234/DSA-Practice/tree/master/0053-maximum-subarray) |
+## Two Pointers
+|  |
+| ------- |
+| [0011-container-with-most-water](https://github.com/devikasharma1234/DSA-Practice/tree/master/0011-container-with-most-water) |
 <!---LeetCode Topics End-->
