@@ -1,36 +1,39 @@
 import java.util.*;
 class Solution {
     public List<List<Integer>> threeSum(int[] nums) {
-        // 2 pointer and set approach
+        // 2 pointers approach - optimized
         int n = nums.length;
-        Arrays.sort(nums); // step1 - sort the array
-        Set<List<Integer>> set = new HashSet<>(); // step2 - set to store unique triple
-        List<List<Integer>> ans = new ArrayList<>();
+        List<List<Integer>> result = new ArrayList<>();
+        Arrays.sort(nums);
 
         for(int i=0; i<n-2; i++){
-            int low = i+1;
-            int high = n-1;
-            int target = -nums[i];  // b+c = -a
+            // skip the duplicated for 1st element
+            if(i>0 && nums[i] == nums[i-1]) continue;
 
-            while(low < high){
-                int sum = nums[low] + nums[high];
+            int target = -nums[i];
+            int left = i+1;
+            int right = n-1;
+
+            while(left < right){
+                int sum = nums[left] + nums[right];
                 if(sum == target){
-                    // found a triplet;
-                    set.add(Arrays.asList(nums[i], nums[low], nums[high]));
-                    low++;
-                    high--;
+                    result.add(Arrays.asList(nums[i], nums[left], nums[right]));
+
+                    // skip duplicate values
+                    while(left < right && nums[left] == nums[left+1]) left++;
+                    while(left < right && nums[right] == nums[right-1]) right--;
+
+                    left++;
+                    right--;
                 }
                 else if(sum < target){
-                    // needs a bigger sum
-                    low++;
+                    left++;
                 }
                 else{
-                    // needs a lower sum
-                    high--;
+                    right--;
                 }
             }
         }
-        ans.addAll(set);
-        return ans;
+        return result;
     }
 }
