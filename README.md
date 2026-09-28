@@ -8,6 +8,7 @@ Daily DSA Practice
 | ------- |
 | [0011-container-with-most-water](https://github.com/devikasharma1234/DSA-Practice/tree/master/0011-container-with-most-water) |
 | [0015-3sum](https://github.com/devikasharma1234/DSA-Practice/tree/master/0015-3sum) |
+| [0018-4sum](https://github.com/devikasharma1234/DSA-Practice/tree/master/0018-4sum) |
 | [0049-group-anagrams](https://github.com/devikasharma1234/DSA-Practice/tree/master/0049-group-anagrams) |
 | [0053-maximum-subarray](https://github.com/devikasharma1234/DSA-Practice/tree/master/0053-maximum-subarray) |
 | [0075-sort-colors](https://github.com/devikasharma1234/DSA-Practice/tree/master/0075-sort-colors) |
@@ -39,6 +40,7 @@ Daily DSA Practice
 |  |
 | ------- |
 | [0015-3sum](https://github.com/devikasharma1234/DSA-Practice/tree/master/0015-3sum) |
+| [0018-4sum](https://github.com/devikasharma1234/DSA-Practice/tree/master/0018-4sum) |
 | [0049-group-anagrams](https://github.com/devikasharma1234/DSA-Practice/tree/master/0049-group-anagrams) |
 | [0075-sort-colors](https://github.com/devikasharma1234/DSA-Practice/tree/master/0075-sort-colors) |
 ## Sliding Window
@@ -70,6 +72,7 @@ Daily DSA Practice
 | ------- |
 | [0011-container-with-most-water](https://github.com/devikasharma1234/DSA-Practice/tree/master/0011-container-with-most-water) |
 | [0015-3sum](https://github.com/devikasharma1234/DSA-Practice/tree/master/0015-3sum) |
+| [0018-4sum](https://github.com/devikasharma1234/DSA-Practice/tree/master/0018-4sum) |
 | [0075-sort-colors](https://github.com/devikasharma1234/DSA-Practice/tree/master/0075-sort-colors) |
 ## Quicksort
 |  |
