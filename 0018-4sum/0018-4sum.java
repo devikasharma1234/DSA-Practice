@@ -49,19 +49,19 @@ class Solution {
    }
 
 
-   // Main method
-   public static void main(String[] args) {
-       Solution sol = new Solution();
-       int[] nums = {1, 0, -1, 0, -2, 2};
-       int target = 0;
+//    // Main method
+//    public static void main(String[] args) {
+//        Solution sol = new Solution();
+//        int[] nums = {1, 0, -1, 0, -2, 2};
+//        int target = 0;
 
 
-       List<List<Integer>> result = sol.fourSum(nums, target);
+//        List<List<Integer>> result = sol.fourSum(nums, target);
 
 
-       System.out.println("Quadruplets summing to " + target + ":");
-       for (List<Integer> quad : result) {
-           System.out.println(quad);
-       }
-   }
+//        System.out.println("Quadruplets summing to " + target + ":");
+//        for (List<Integer> quad : result) {
+//            System.out.println(quad);
+//        }
+//    }
 }
