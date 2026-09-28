@@ -1,53 +1,67 @@
+import java.util.*;
+
+
 class Solution {
-    public List<List<Integer>> fourSum(int[] nums, int target) {
-        List<List<Integer>> ans = new ArrayList<>();
-        int n = nums.length;
+   public List<List<Integer>> fourSum(int[] nums, int target) {
+       int n = nums.length;
+       Arrays.sort(nums); // Step 1: Sort the array
+       List<List<Integer>> result = new ArrayList<>();
 
-        // Sort to use two pointers and skip duplicates
-        Arrays.sort(nums);
 
-        for(int i = 0; i < n; i++) {
-            // Skip duplicate first elements
-            if(i > 0 && nums[i] == nums[i - 1]) continue;
+       // Loop for the first number
+       for (int first = 0; first < n - 3; first++) {
+           if (first > 0 && nums[first] == nums[first - 1]) continue; // Skip duplicates
 
-            for(int j = i + 1; j < n; j++) {
-                // Skip duplicate second elements
-                if(j > i + 1 && nums[j] == nums[j - 1]) continue;
 
-                int k = j + 1;
-                int l = n - 1;
+           // Loop for the second number
+           for (int second = first + 1; second < n - 2; second++) {
+               if (second > first + 1 && nums[second] == nums[second - 1]) continue; // Skip duplicates
 
-                // Find the remaining two elements using two pointers
-                while(k < l) {
-                    long sum = (long) nums[i] + nums[j] + nums[k] + nums[l];
 
-                    if(sum == target) {
-                        // Found a valid quadruplet
-                        ans.add(Arrays.asList(
-                            nums[i], nums[j], nums[k], nums[l]
-                        ));
+               long remainingTarget = (long)target - nums[first] - nums[second];
+               int left = second + 1, right = n - 1;
 
-                        k++;
-                        l--;
 
-                        // Skip duplicate third elements
-                        while(k < l && nums[k] == nums[k - 1]) k++;
+               // Two-pointer search for remaining two numbers
+               while (left < right) {
+                   int sum = nums[left] + nums[right];
 
-                        // Skip duplicate fourth elements
-                        while(k < l && nums[l] == nums[l + 1]) l--;
-                    }
-                    else if(sum < target) {
-                        // Need a larger sum
-                        k++;
-                    }
-                    else {
-                        // Need a smaller sum
-                        l--;
-                    }
-                }
-            }
-        }
 
-        return ans;
-    }
+                   if (sum < remainingTarget) {
+                       left++;
+                   } else if (sum > remainingTarget) {
+                       right--;
+                   } else {
+                       result.add(Arrays.asList(nums[first], nums[second], nums[left], nums[right]));
+
+
+                       // Skip duplicates
+                       int prevLeft = nums[left], prevRight = nums[right];
+                       while (left < right && nums[left] == prevLeft) left++;
+                       while (left < right && nums[right] == prevRight) right--;
+                   }
+               }
+           }
+       }
+
+
+       return result;
+   }
+
+
+   // Main method
+   public static void main(String[] args) {
+       Solution sol = new Solution();
+       int[] nums = {1, 0, -1, 0, -2, 2};
+       int target = 0;
+
+
+       List<List<Integer>> result = sol.fourSum(nums, target);
+
+
+       System.out.println("Quadruplets summing to " + target + ":");
+       for (List<Integer> quad : result) {
+           System.out.println(quad);
+       }
+   }
 }
