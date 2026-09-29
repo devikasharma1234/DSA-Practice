@@ -20,6 +20,7 @@ Daily DSA Practice
 | [2016-maximum-difference-between-increasing-elements](https://github.com/devikasharma1234/DSA-Practice/tree/master/2016-maximum-difference-between-increasing-elements) |
 | [2078-two-furthest-houses-with-different-colors](https://github.com/devikasharma1234/DSA-Practice/tree/master/2078-two-furthest-houses-with-different-colors) |
 | [2404-most-frequent-even-element](https://github.com/devikasharma1234/DSA-Practice/tree/master/2404-most-frequent-even-element) |
+| [2848-points-that-intersect-with-cars](https://github.com/devikasharma1234/DSA-Practice/tree/master/2848-points-that-intersect-with-cars) |
 | [3105-longest-strictly-increasing-or-strictly-decreasing-subarray](https://github.com/devikasharma1234/DSA-Practice/tree/master/3105-longest-strictly-increasing-or-strictly-decreasing-subarray) |
 | [3131-find-the-integer-added-to-array-i](https://github.com/devikasharma1234/DSA-Practice/tree/master/3131-find-the-integer-added-to-array-i) |
 | [3151-special-array-i](https://github.com/devikasharma1234/DSA-Practice/tree/master/3151-special-array-i) |
@@ -29,6 +30,7 @@ Daily DSA Practice
 | ------- |
 | [0049-group-anagrams](https://github.com/devikasharma1234/DSA-Practice/tree/master/0049-group-anagrams) |
 | [2404-most-frequent-even-element](https://github.com/devikasharma1234/DSA-Practice/tree/master/2404-most-frequent-even-element) |
+| [2848-points-that-intersect-with-cars](https://github.com/devikasharma1234/DSA-Practice/tree/master/2848-points-that-intersect-with-cars) |
 ## Counting
 |  |
 | ------- |
@@ -84,4 +86,8 @@ Daily DSA Practice
 |  |
 | ------- |
 | [0075-sort-colors](https://github.com/devikasharma1234/DSA-Practice/tree/master/0075-sort-colors) |
+## Prefix Sum
+|  |
+| ------- |
+| [2848-points-that-intersect-with-cars](https://github.com/devikasharma1234/DSA-Practice/tree/master/2848-points-that-intersect-with-cars) |
 <!---LeetCode Topics End-->
