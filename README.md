@@ -29,6 +29,7 @@ Daily DSA Practice
 |  |
 | ------- |
 | [0049-group-anagrams](https://github.com/devikasharma1234/DSA-Practice/tree/master/0049-group-anagrams) |
+| [0242-valid-anagram](https://github.com/devikasharma1234/DSA-Practice/tree/master/0242-valid-anagram) |
 | [2404-most-frequent-even-element](https://github.com/devikasharma1234/DSA-Practice/tree/master/2404-most-frequent-even-element) |
 | [2848-points-that-intersect-with-cars](https://github.com/devikasharma1234/DSA-Practice/tree/master/2848-points-that-intersect-with-cars) |
 ## Counting
@@ -39,6 +40,7 @@ Daily DSA Practice
 |  |
 | ------- |
 | [0049-group-anagrams](https://github.com/devikasharma1234/DSA-Practice/tree/master/0049-group-anagrams) |
+| [0242-valid-anagram](https://github.com/devikasharma1234/DSA-Practice/tree/master/0242-valid-anagram) |
 ## Sorting
 |  |
 | ------- |
@@ -46,6 +48,7 @@ Daily DSA Practice
 | [0018-4sum](https://github.com/devikasharma1234/DSA-Practice/tree/master/0018-4sum) |
 | [0049-group-anagrams](https://github.com/devikasharma1234/DSA-Practice/tree/master/0049-group-anagrams) |
 | [0075-sort-colors](https://github.com/devikasharma1234/DSA-Practice/tree/master/0075-sort-colors) |
+| [0242-valid-anagram](https://github.com/devikasharma1234/DSA-Practice/tree/master/0242-valid-anagram) |
 ## Sliding Window
 |  |
 | ------- |
