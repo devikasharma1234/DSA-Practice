@@ -13,6 +13,7 @@ Daily DSA Practice
 | [0049-group-anagrams](https://github.com/devikasharma1234/DSA-Practice/tree/master/0049-group-anagrams) |
 | [0053-maximum-subarray](https://github.com/devikasharma1234/DSA-Practice/tree/master/0053-maximum-subarray) |
 | [0075-sort-colors](https://github.com/devikasharma1234/DSA-Practice/tree/master/0075-sort-colors) |
+| [0079-word-search](https://github.com/devikasharma1234/DSA-Practice/tree/master/0079-word-search) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/devikasharma1234/DSA-Practice/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/devikasharma1234/DSA-Practice/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0136-single-number](https://github.com/devikasharma1234/DSA-Practice/tree/master/0136-single-number) |
@@ -40,6 +41,7 @@ Daily DSA Practice
 |  |
 | ------- |
 | [0049-group-anagrams](https://github.com/devikasharma1234/DSA-Practice/tree/master/0049-group-anagrams) |
+| [0079-word-search](https://github.com/devikasharma1234/DSA-Practice/tree/master/0079-word-search) |
 | [0242-valid-anagram](https://github.com/devikasharma1234/DSA-Practice/tree/master/0242-valid-anagram) |
 ## Sorting
 |  |
@@ -93,4 +95,16 @@ Daily DSA Practice
 |  |
 | ------- |
 | [2848-points-that-intersect-with-cars](https://github.com/devikasharma1234/DSA-Practice/tree/master/2848-points-that-intersect-with-cars) |
+## Backtracking
+|  |
+| ------- |
+| [0079-word-search](https://github.com/devikasharma1234/DSA-Practice/tree/master/0079-word-search) |
+## Depth-First Search
+|  |
+| ------- |
+| [0079-word-search](https://github.com/devikasharma1234/DSA-Practice/tree/master/0079-word-search) |
+## Matrix
+|  |
+| ------- |
+| [0079-word-search](https://github.com/devikasharma1234/DSA-Practice/tree/master/0079-word-search) |
 <!---LeetCode Topics End-->
