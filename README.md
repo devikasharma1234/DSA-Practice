@@ -17,6 +17,7 @@ Daily DSA Practice
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/devikasharma1234/DSA-Practice/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/devikasharma1234/DSA-Practice/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0136-single-number](https://github.com/devikasharma1234/DSA-Practice/tree/master/0136-single-number) |
+| [0238-product-of-array-except-self](https://github.com/devikasharma1234/DSA-Practice/tree/master/0238-product-of-array-except-self) |
 | [1299-replace-elements-with-greatest-element-on-right-side](https://github.com/devikasharma1234/DSA-Practice/tree/master/1299-replace-elements-with-greatest-element-on-right-side) |
 | [2016-maximum-difference-between-increasing-elements](https://github.com/devikasharma1234/DSA-Practice/tree/master/2016-maximum-difference-between-increasing-elements) |
 | [2078-two-furthest-houses-with-different-colors](https://github.com/devikasharma1234/DSA-Practice/tree/master/2078-two-furthest-houses-with-different-colors) |
@@ -94,6 +95,7 @@ Daily DSA Practice
 ## Prefix Sum
 |  |
 | ------- |
+| [0238-product-of-array-except-self](https://github.com/devikasharma1234/DSA-Practice/tree/master/0238-product-of-array-except-self) |
 | [2848-points-that-intersect-with-cars](https://github.com/devikasharma1234/DSA-Practice/tree/master/2848-points-that-intersect-with-cars) |
 ## Backtracking
 |  |
