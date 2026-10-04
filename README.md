@@ -18,6 +18,7 @@ Daily DSA Practice
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/devikasharma1234/DSA-Practice/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0136-single-number](https://github.com/devikasharma1234/DSA-Practice/tree/master/0136-single-number) |
 | [0238-product-of-array-except-self](https://github.com/devikasharma1234/DSA-Practice/tree/master/0238-product-of-array-except-self) |
+| [0287-find-the-duplicate-number](https://github.com/devikasharma1234/DSA-Practice/tree/master/0287-find-the-duplicate-number) |
 | [1299-replace-elements-with-greatest-element-on-right-side](https://github.com/devikasharma1234/DSA-Practice/tree/master/1299-replace-elements-with-greatest-element-on-right-side) |
 | [2016-maximum-difference-between-increasing-elements](https://github.com/devikasharma1234/DSA-Practice/tree/master/2016-maximum-difference-between-increasing-elements) |
 | [2078-two-furthest-houses-with-different-colors](https://github.com/devikasharma1234/DSA-Practice/tree/master/2078-two-furthest-houses-with-different-colors) |
@@ -63,6 +64,7 @@ Daily DSA Practice
 |  |
 | ------- |
 | [0136-single-number](https://github.com/devikasharma1234/DSA-Practice/tree/master/0136-single-number) |
+| [0287-find-the-duplicate-number](https://github.com/devikasharma1234/DSA-Practice/tree/master/0287-find-the-duplicate-number) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -87,6 +89,7 @@ Daily DSA Practice
 | [0018-4sum](https://github.com/devikasharma1234/DSA-Practice/tree/master/0018-4sum) |
 | [0031-next-permutation](https://github.com/devikasharma1234/DSA-Practice/tree/master/0031-next-permutation) |
 | [0075-sort-colors](https://github.com/devikasharma1234/DSA-Practice/tree/master/0075-sort-colors) |
+| [0287-find-the-duplicate-number](https://github.com/devikasharma1234/DSA-Practice/tree/master/0287-find-the-duplicate-number) |
 ## Quicksort
 |  |
 | ------- |
@@ -112,4 +115,16 @@ Daily DSA Practice
 |  |
 | ------- |
 | [0079-word-search](https://github.com/devikasharma1234/DSA-Practice/tree/master/0079-word-search) |
+## Binary Search
+|  |
+| ------- |
+| [0287-find-the-duplicate-number](https://github.com/devikasharma1234/DSA-Practice/tree/master/0287-find-the-duplicate-number) |
+## Pigeonhole Principle
+|  |
+| ------- |
+| [0287-find-the-duplicate-number](https://github.com/devikasharma1234/DSA-Practice/tree/master/0287-find-the-duplicate-number) |
+## Floyd's Cycle Finding Algorithm
+|  |
+| ------- |
+| [0287-find-the-duplicate-number](https://github.com/devikasharma1234/DSA-Practice/tree/master/0287-find-the-duplicate-number) |
 <!---LeetCode Topics End-->
