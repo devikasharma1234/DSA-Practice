@@ -19,6 +19,7 @@ Daily DSA Practice
 | [0136-single-number](https://github.com/devikasharma1234/DSA-Practice/tree/master/0136-single-number) |
 | [0238-product-of-array-except-self](https://github.com/devikasharma1234/DSA-Practice/tree/master/0238-product-of-array-except-self) |
 | [0287-find-the-duplicate-number](https://github.com/devikasharma1234/DSA-Practice/tree/master/0287-find-the-duplicate-number) |
+| [0724-find-pivot-index](https://github.com/devikasharma1234/DSA-Practice/tree/master/0724-find-pivot-index) |
 | [1299-replace-elements-with-greatest-element-on-right-side](https://github.com/devikasharma1234/DSA-Practice/tree/master/1299-replace-elements-with-greatest-element-on-right-side) |
 | [2016-maximum-difference-between-increasing-elements](https://github.com/devikasharma1234/DSA-Practice/tree/master/2016-maximum-difference-between-increasing-elements) |
 | [2078-two-furthest-houses-with-different-colors](https://github.com/devikasharma1234/DSA-Practice/tree/master/2078-two-furthest-houses-with-different-colors) |
@@ -102,6 +103,7 @@ Daily DSA Practice
 |  |
 | ------- |
 | [0238-product-of-array-except-self](https://github.com/devikasharma1234/DSA-Practice/tree/master/0238-product-of-array-except-self) |
+| [0724-find-pivot-index](https://github.com/devikasharma1234/DSA-Practice/tree/master/0724-find-pivot-index) |
 | [2848-points-that-intersect-with-cars](https://github.com/devikasharma1234/DSA-Practice/tree/master/2848-points-that-intersect-with-cars) |
 ## Backtracking
 |  |
