@@ -30,6 +30,7 @@ Daily DSA Practice
 ## Hash Table
 |  |
 | ------- |
+| [0003-longest-substring-without-repeating-characters](https://github.com/devikasharma1234/DSA-Practice/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0049-group-anagrams](https://github.com/devikasharma1234/DSA-Practice/tree/master/0049-group-anagrams) |
 | [0242-valid-anagram](https://github.com/devikasharma1234/DSA-Practice/tree/master/0242-valid-anagram) |
 | [2404-most-frequent-even-element](https://github.com/devikasharma1234/DSA-Practice/tree/master/2404-most-frequent-even-element) |
@@ -41,6 +42,7 @@ Daily DSA Practice
 ## String
 |  |
 | ------- |
+| [0003-longest-substring-without-repeating-characters](https://github.com/devikasharma1234/DSA-Practice/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0049-group-anagrams](https://github.com/devikasharma1234/DSA-Practice/tree/master/0049-group-anagrams) |
 | [0079-word-search](https://github.com/devikasharma1234/DSA-Practice/tree/master/0079-word-search) |
 | [0242-valid-anagram](https://github.com/devikasharma1234/DSA-Practice/tree/master/0242-valid-anagram) |
@@ -55,6 +57,7 @@ Daily DSA Practice
 ## Sliding Window
 |  |
 | ------- |
+| [0003-longest-substring-without-repeating-characters](https://github.com/devikasharma1234/DSA-Practice/tree/master/0003-longest-substring-without-repeating-characters) |
 | [3206-alternating-groups-i](https://github.com/devikasharma1234/DSA-Practice/tree/master/3206-alternating-groups-i) |
 ## Bit Manipulation
 |  |
