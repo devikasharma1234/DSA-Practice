@@ -19,6 +19,7 @@ Daily DSA Practice
 | [0136-single-number](https://github.com/devikasharma1234/DSA-Practice/tree/master/0136-single-number) |
 | [0238-product-of-array-except-self](https://github.com/devikasharma1234/DSA-Practice/tree/master/0238-product-of-array-except-self) |
 | [0287-find-the-duplicate-number](https://github.com/devikasharma1234/DSA-Practice/tree/master/0287-find-the-duplicate-number) |
+| [0560-subarray-sum-equals-k](https://github.com/devikasharma1234/DSA-Practice/tree/master/0560-subarray-sum-equals-k) |
 | [0724-find-pivot-index](https://github.com/devikasharma1234/DSA-Practice/tree/master/0724-find-pivot-index) |
 | [1299-replace-elements-with-greatest-element-on-right-side](https://github.com/devikasharma1234/DSA-Practice/tree/master/1299-replace-elements-with-greatest-element-on-right-side) |
 | [2016-maximum-difference-between-increasing-elements](https://github.com/devikasharma1234/DSA-Practice/tree/master/2016-maximum-difference-between-increasing-elements) |
@@ -35,6 +36,7 @@ Daily DSA Practice
 | [0003-longest-substring-without-repeating-characters](https://github.com/devikasharma1234/DSA-Practice/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0049-group-anagrams](https://github.com/devikasharma1234/DSA-Practice/tree/master/0049-group-anagrams) |
 | [0242-valid-anagram](https://github.com/devikasharma1234/DSA-Practice/tree/master/0242-valid-anagram) |
+| [0560-subarray-sum-equals-k](https://github.com/devikasharma1234/DSA-Practice/tree/master/0560-subarray-sum-equals-k) |
 | [2404-most-frequent-even-element](https://github.com/devikasharma1234/DSA-Practice/tree/master/2404-most-frequent-even-element) |
 | [2848-points-that-intersect-with-cars](https://github.com/devikasharma1234/DSA-Practice/tree/master/2848-points-that-intersect-with-cars) |
 ## Counting
@@ -103,6 +105,7 @@ Daily DSA Practice
 |  |
 | ------- |
 | [0238-product-of-array-except-self](https://github.com/devikasharma1234/DSA-Practice/tree/master/0238-product-of-array-except-self) |
+| [0560-subarray-sum-equals-k](https://github.com/devikasharma1234/DSA-Practice/tree/master/0560-subarray-sum-equals-k) |
 | [0724-find-pivot-index](https://github.com/devikasharma1234/DSA-Practice/tree/master/0724-find-pivot-index) |
 | [2848-points-that-intersect-with-cars](https://github.com/devikasharma1234/DSA-Practice/tree/master/2848-points-that-intersect-with-cars) |
 ## Backtracking
