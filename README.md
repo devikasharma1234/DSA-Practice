@@ -26,6 +26,7 @@ Daily DSA Practice
 | [2078-two-furthest-houses-with-different-colors](https://github.com/devikasharma1234/DSA-Practice/tree/master/2078-two-furthest-houses-with-different-colors) |
 | [2404-most-frequent-even-element](https://github.com/devikasharma1234/DSA-Practice/tree/master/2404-most-frequent-even-element) |
 | [2848-points-that-intersect-with-cars](https://github.com/devikasharma1234/DSA-Practice/tree/master/2848-points-that-intersect-with-cars) |
+| [3028-ant-on-the-boundary](https://github.com/devikasharma1234/DSA-Practice/tree/master/3028-ant-on-the-boundary) |
 | [3105-longest-strictly-increasing-or-strictly-decreasing-subarray](https://github.com/devikasharma1234/DSA-Practice/tree/master/3105-longest-strictly-increasing-or-strictly-decreasing-subarray) |
 | [3131-find-the-integer-added-to-array-i](https://github.com/devikasharma1234/DSA-Practice/tree/master/3131-find-the-integer-added-to-array-i) |
 | [3151-special-array-i](https://github.com/devikasharma1234/DSA-Practice/tree/master/3151-special-array-i) |
@@ -109,6 +110,7 @@ Daily DSA Practice
 | [0560-subarray-sum-equals-k](https://github.com/devikasharma1234/DSA-Practice/tree/master/0560-subarray-sum-equals-k) |
 | [0724-find-pivot-index](https://github.com/devikasharma1234/DSA-Practice/tree/master/0724-find-pivot-index) |
 | [2848-points-that-intersect-with-cars](https://github.com/devikasharma1234/DSA-Practice/tree/master/2848-points-that-intersect-with-cars) |
+| [3028-ant-on-the-boundary](https://github.com/devikasharma1234/DSA-Practice/tree/master/3028-ant-on-the-boundary) |
 ## Backtracking
 |  |
 | ------- |
@@ -133,4 +135,8 @@ Daily DSA Practice
 |  |
 | ------- |
 | [0287-find-the-duplicate-number](https://github.com/devikasharma1234/DSA-Practice/tree/master/0287-find-the-duplicate-number) |
+## Simulation
+|  |
+| ------- |
+| [3028-ant-on-the-boundary](https://github.com/devikasharma1234/DSA-Practice/tree/master/3028-ant-on-the-boundary) |
 <!---LeetCode Topics End-->
