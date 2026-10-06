@@ -25,6 +25,7 @@ Daily DSA Practice
 | [2016-maximum-difference-between-increasing-elements](https://github.com/devikasharma1234/DSA-Practice/tree/master/2016-maximum-difference-between-increasing-elements) |
 | [2078-two-furthest-houses-with-different-colors](https://github.com/devikasharma1234/DSA-Practice/tree/master/2078-two-furthest-houses-with-different-colors) |
 | [2404-most-frequent-even-element](https://github.com/devikasharma1234/DSA-Practice/tree/master/2404-most-frequent-even-element) |
+| [2706-buy-two-chocolates](https://github.com/devikasharma1234/DSA-Practice/tree/master/2706-buy-two-chocolates) |
 | [2848-points-that-intersect-with-cars](https://github.com/devikasharma1234/DSA-Practice/tree/master/2848-points-that-intersect-with-cars) |
 | [3028-ant-on-the-boundary](https://github.com/devikasharma1234/DSA-Practice/tree/master/3028-ant-on-the-boundary) |
 | [3105-longest-strictly-increasing-or-strictly-decreasing-subarray](https://github.com/devikasharma1234/DSA-Practice/tree/master/3105-longest-strictly-increasing-or-strictly-decreasing-subarray) |
@@ -60,6 +61,7 @@ Daily DSA Practice
 | [0049-group-anagrams](https://github.com/devikasharma1234/DSA-Practice/tree/master/0049-group-anagrams) |
 | [0075-sort-colors](https://github.com/devikasharma1234/DSA-Practice/tree/master/0075-sort-colors) |
 | [0242-valid-anagram](https://github.com/devikasharma1234/DSA-Practice/tree/master/0242-valid-anagram) |
+| [2706-buy-two-chocolates](https://github.com/devikasharma1234/DSA-Practice/tree/master/2706-buy-two-chocolates) |
 ## Sliding Window
 |  |
 | ------- |
@@ -82,6 +84,7 @@ Daily DSA Practice
 | [0011-container-with-most-water](https://github.com/devikasharma1234/DSA-Practice/tree/master/0011-container-with-most-water) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/devikasharma1234/DSA-Practice/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [2078-two-furthest-houses-with-different-colors](https://github.com/devikasharma1234/DSA-Practice/tree/master/2078-two-furthest-houses-with-different-colors) |
+| [2706-buy-two-chocolates](https://github.com/devikasharma1234/DSA-Practice/tree/master/2706-buy-two-chocolates) |
 ## Divide and Conquer
 |  |
 | ------- |
