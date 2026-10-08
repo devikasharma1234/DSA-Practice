@@ -10,6 +10,7 @@ Daily DSA Practice
 | [0015-3sum](https://github.com/devikasharma1234/DSA-Practice/tree/master/0015-3sum) |
 | [0018-4sum](https://github.com/devikasharma1234/DSA-Practice/tree/master/0018-4sum) |
 | [0031-next-permutation](https://github.com/devikasharma1234/DSA-Practice/tree/master/0031-next-permutation) |
+| [0042-trapping-rain-water](https://github.com/devikasharma1234/DSA-Practice/tree/master/0042-trapping-rain-water) |
 | [0049-group-anagrams](https://github.com/devikasharma1234/DSA-Practice/tree/master/0049-group-anagrams) |
 | [0053-maximum-subarray](https://github.com/devikasharma1234/DSA-Practice/tree/master/0053-maximum-subarray) |
 | [0075-sort-colors](https://github.com/devikasharma1234/DSA-Practice/tree/master/0075-sort-colors) |
@@ -75,6 +76,7 @@ Daily DSA Practice
 ## Dynamic Programming
 |  |
 | ------- |
+| [0042-trapping-rain-water](https://github.com/devikasharma1234/DSA-Practice/tree/master/0042-trapping-rain-water) |
 | [0053-maximum-subarray](https://github.com/devikasharma1234/DSA-Practice/tree/master/0053-maximum-subarray) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/devikasharma1234/DSA-Practice/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/devikasharma1234/DSA-Practice/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
@@ -96,6 +98,7 @@ Daily DSA Practice
 | [0015-3sum](https://github.com/devikasharma1234/DSA-Practice/tree/master/0015-3sum) |
 | [0018-4sum](https://github.com/devikasharma1234/DSA-Practice/tree/master/0018-4sum) |
 | [0031-next-permutation](https://github.com/devikasharma1234/DSA-Practice/tree/master/0031-next-permutation) |
+| [0042-trapping-rain-water](https://github.com/devikasharma1234/DSA-Practice/tree/master/0042-trapping-rain-water) |
 | [0075-sort-colors](https://github.com/devikasharma1234/DSA-Practice/tree/master/0075-sort-colors) |
 | [0287-find-the-duplicate-number](https://github.com/devikasharma1234/DSA-Practice/tree/master/0287-find-the-duplicate-number) |
 ## Quicksort
@@ -142,4 +145,12 @@ Daily DSA Practice
 |  |
 | ------- |
 | [3028-ant-on-the-boundary](https://github.com/devikasharma1234/DSA-Practice/tree/master/3028-ant-on-the-boundary) |
+## Stack
+|  |
+| ------- |
+| [0042-trapping-rain-water](https://github.com/devikasharma1234/DSA-Practice/tree/master/0042-trapping-rain-water) |
+## Monotonic Stack
+|  |
+| ------- |
+| [0042-trapping-rain-water](https://github.com/devikasharma1234/DSA-Practice/tree/master/0042-trapping-rain-water) |
 <!---LeetCode Topics End-->
