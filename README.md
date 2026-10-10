@@ -54,6 +54,7 @@ Daily DSA Practice
 | [0049-group-anagrams](https://github.com/devikasharma1234/DSA-Practice/tree/master/0049-group-anagrams) |
 | [0079-word-search](https://github.com/devikasharma1234/DSA-Practice/tree/master/0079-word-search) |
 | [0242-valid-anagram](https://github.com/devikasharma1234/DSA-Practice/tree/master/0242-valid-anagram) |
+| [0443-string-compression](https://github.com/devikasharma1234/DSA-Practice/tree/master/0443-string-compression) |
 | [3136-valid-word](https://github.com/devikasharma1234/DSA-Practice/tree/master/3136-valid-word) |
 ## Sorting
 |  |
@@ -102,6 +103,7 @@ Daily DSA Practice
 | [0042-trapping-rain-water](https://github.com/devikasharma1234/DSA-Practice/tree/master/0042-trapping-rain-water) |
 | [0075-sort-colors](https://github.com/devikasharma1234/DSA-Practice/tree/master/0075-sort-colors) |
 | [0287-find-the-duplicate-number](https://github.com/devikasharma1234/DSA-Practice/tree/master/0287-find-the-duplicate-number) |
+| [0443-string-compression](https://github.com/devikasharma1234/DSA-Practice/tree/master/0443-string-compression) |
 ## Quicksort
 |  |
 | ------- |
