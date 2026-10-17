@@ -21,6 +21,7 @@ Daily DSA Practice
 | [0136-single-number](https://github.com/devikasharma1234/DSA-Practice/tree/master/0136-single-number) |
 | [0238-product-of-array-except-self](https://github.com/devikasharma1234/DSA-Practice/tree/master/0238-product-of-array-except-self) |
 | [0287-find-the-duplicate-number](https://github.com/devikasharma1234/DSA-Practice/tree/master/0287-find-the-duplicate-number) |
+| [0493-reverse-pairs](https://github.com/devikasharma1234/DSA-Practice/tree/master/0493-reverse-pairs) |
 | [0560-subarray-sum-equals-k](https://github.com/devikasharma1234/DSA-Practice/tree/master/0560-subarray-sum-equals-k) |
 | [0724-find-pivot-index](https://github.com/devikasharma1234/DSA-Practice/tree/master/0724-find-pivot-index) |
 | [1299-replace-elements-with-greatest-element-on-right-side](https://github.com/devikasharma1234/DSA-Practice/tree/master/1299-replace-elements-with-greatest-element-on-right-side) |
@@ -93,6 +94,7 @@ Daily DSA Practice
 |  |
 | ------- |
 | [0053-maximum-subarray](https://github.com/devikasharma1234/DSA-Practice/tree/master/0053-maximum-subarray) |
+| [0493-reverse-pairs](https://github.com/devikasharma1234/DSA-Practice/tree/master/0493-reverse-pairs) |
 ## Two Pointers
 |  |
 | ------- |
@@ -136,6 +138,7 @@ Daily DSA Practice
 |  |
 | ------- |
 | [0287-find-the-duplicate-number](https://github.com/devikasharma1234/DSA-Practice/tree/master/0287-find-the-duplicate-number) |
+| [0493-reverse-pairs](https://github.com/devikasharma1234/DSA-Practice/tree/master/0493-reverse-pairs) |
 ## Pigeonhole Principle
 |  |
 | ------- |
@@ -162,4 +165,24 @@ Daily DSA Practice
 |  |
 | ------- |
 | [0084-largest-rectangle-in-histogram](https://github.com/devikasharma1234/DSA-Practice/tree/master/0084-largest-rectangle-in-histogram) |
+## Binary Indexed Tree
+|  |
+| ------- |
+| [0493-reverse-pairs](https://github.com/devikasharma1234/DSA-Practice/tree/master/0493-reverse-pairs) |
+## Segment Tree
+|  |
+| ------- |
+| [0493-reverse-pairs](https://github.com/devikasharma1234/DSA-Practice/tree/master/0493-reverse-pairs) |
+## Merge Sort
+|  |
+| ------- |
+| [0493-reverse-pairs](https://github.com/devikasharma1234/DSA-Practice/tree/master/0493-reverse-pairs) |
+## Ordered Set
+|  |
+| ------- |
+| [0493-reverse-pairs](https://github.com/devikasharma1234/DSA-Practice/tree/master/0493-reverse-pairs) |
+## Treap
+|  |
+| ------- |
+| [0493-reverse-pairs](https://github.com/devikasharma1234/DSA-Practice/tree/master/0493-reverse-pairs) |
 <!---LeetCode Topics End-->
