@@ -52,6 +52,7 @@ Daily DSA Practice
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/devikasharma1234/DSA-Practice/tree/master/0003-longest-substring-without-repeating-characters) |
+| [0006-zigzag-conversion](https://github.com/devikasharma1234/DSA-Practice/tree/master/0006-zigzag-conversion) |
 | [0049-group-anagrams](https://github.com/devikasharma1234/DSA-Practice/tree/master/0049-group-anagrams) |
 | [0079-word-search](https://github.com/devikasharma1234/DSA-Practice/tree/master/0079-word-search) |
 | [0242-valid-anagram](https://github.com/devikasharma1234/DSA-Practice/tree/master/0242-valid-anagram) |
