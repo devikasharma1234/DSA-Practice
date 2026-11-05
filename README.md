@@ -24,6 +24,7 @@ Daily DSA Practice
 | [0493-reverse-pairs](https://github.com/devikasharma1234/DSA-Practice/tree/master/0493-reverse-pairs) |
 | [0560-subarray-sum-equals-k](https://github.com/devikasharma1234/DSA-Practice/tree/master/0560-subarray-sum-equals-k) |
 | [0724-find-pivot-index](https://github.com/devikasharma1234/DSA-Practice/tree/master/0724-find-pivot-index) |
+| [0739-daily-temperatures](https://github.com/devikasharma1234/DSA-Practice/tree/master/0739-daily-temperatures) |
 | [1299-replace-elements-with-greatest-element-on-right-side](https://github.com/devikasharma1234/DSA-Practice/tree/master/1299-replace-elements-with-greatest-element-on-right-side) |
 | [2016-maximum-difference-between-increasing-elements](https://github.com/devikasharma1234/DSA-Practice/tree/master/2016-maximum-difference-between-increasing-elements) |
 | [2078-two-furthest-houses-with-different-colors](https://github.com/devikasharma1234/DSA-Practice/tree/master/2078-two-furthest-houses-with-different-colors) |
@@ -163,11 +164,13 @@ Daily DSA Practice
 | ------- |
 | [0042-trapping-rain-water](https://github.com/devikasharma1234/DSA-Practice/tree/master/0042-trapping-rain-water) |
 | [0084-largest-rectangle-in-histogram](https://github.com/devikasharma1234/DSA-Practice/tree/master/0084-largest-rectangle-in-histogram) |
+| [0739-daily-temperatures](https://github.com/devikasharma1234/DSA-Practice/tree/master/0739-daily-temperatures) |
 ## Monotonic Stack
 |  |
 | ------- |
 | [0042-trapping-rain-water](https://github.com/devikasharma1234/DSA-Practice/tree/master/0042-trapping-rain-water) |
 | [0084-largest-rectangle-in-histogram](https://github.com/devikasharma1234/DSA-Practice/tree/master/0084-largest-rectangle-in-histogram) |
+| [0739-daily-temperatures](https://github.com/devikasharma1234/DSA-Practice/tree/master/0739-daily-temperatures) |
 ## Range Minimum/Maximum Query
 |  |
 | ------- |
